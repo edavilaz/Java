@@ -1,0 +1,16 @@
+package poo;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	// objeto
+	/*Es una abstracción de la realidad*/
+	
+	// Clase
+	/* Es la abstracción de ese objeto en un lenguaje de programación*/
+
+}

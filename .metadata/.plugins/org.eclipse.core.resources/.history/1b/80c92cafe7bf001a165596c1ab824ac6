@@ -1,0 +1,21 @@
+
+public class Automovil {
+
+	// Atributos o características
+	
+		String marca;
+		int modelo;
+		int precio;
+	
+	
+	// Métodos y acciones
+		public void encender() {
+			
+		}
+		public void apagar() {
+			
+		}
+		public void avanzar() {
+			
+		}
+}

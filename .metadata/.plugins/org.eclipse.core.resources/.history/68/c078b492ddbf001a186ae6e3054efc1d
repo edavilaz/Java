@@ -1,0 +1,15 @@
+package poo;
+
+public class Persona {
+	// en una clase se pueden definir atributos o características
+	// existen métodos y funciones
+	
+	String nombre;
+	String apellido;
+	String apodo;
+	int edad;
+	int altura;
+	int peso;
+	
+	
+}

@@ -1,0 +1,44 @@
+
+public class Automovil {
+
+	// Atributos o características
+	
+		String marca;
+		int modelo;
+		int precio;
+		boolean estado = false;
+		
+	// Definición de constructor
+		
+		public Automovil() {
+			System.out.println("Se creó un objeto de tipo Automóvil");
+		}
+		
+	// Métodos y acciones
+		public void encender() {
+			if(estado == true) {
+				System.out.println("El automovil y está encendido");
+			}else {
+				System.out.println("Encender");
+				estado = true;
+			}
+		}
+	
+		public void apagar() {
+			if(estado == true) {
+				System.out.println("Apagado");
+				estado = false;
+			}else {
+				System.out.println("Ya está apagado");
+			}
+		}
+		
+		public void avanzar() {
+			if (estado == true) {
+				
+			}
+			System.out.println("Avanzar");
+			
+			
+		}
+}

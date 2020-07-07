@@ -1,0 +1,28 @@
+
+public class Automovil {
+
+	// Atributos o características
+	
+		String marca;
+		int modelo;
+		int precio;
+		
+		boolean estado = false;
+	// Definición de constructor
+		
+		public Automovil() {
+			System.out.println("Se creó un objeto de tipo Automóvil");
+		}
+		
+	// Métodos y acciones
+		public void encender() {
+			System.out.println("Encender");
+		}
+		public void apagar() {
+			System.out.println("Apagado");
+		}
+		public void avanzar() {
+			System.out.println("Avanzar");
+			
+		}
+}
